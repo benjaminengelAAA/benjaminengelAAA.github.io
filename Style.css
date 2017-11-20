@@ -1,0 +1,41 @@
+body{
+	background-color: #bdd4db;
+}
+h1{
+	font-family:Arial;
+	font-size: 20pt;
+	color:#9adb34;
+	text-align:center;
+}
+p{
+	font-family: verdana;
+    font-size:10pt;
+    color:green;
+    text-align: center;
+}
+ul{
+	font-size: 10pt;
+	font-family: verdana;
+	color:red;
+}
+.clone{
+	font-family: verdana;
+	color:green;
+	background-color: #93989a;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 8000px;
+}
+img{
+	margin-left: 250px;
+    width: 400px;
+    height:500px;
+}
+.homepage{
+	width:50px;
+	height:20px;
+	background-color: gold;
+	float:right;
+	margin-right:25px;
+}
